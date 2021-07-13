@@ -1,0 +1,19 @@
+[class*="col-"] {
+    min-height: 50px;
+    background-color: #006cfa;
+    border: solid 1px #fff;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+}
+
+.nested {
+    background-color: #00e165;
+}
+.col-lg-6.row {
+    padding: 15px;
+}
+
+section.first {
+    margin-bottom: 20px;
+}

@@ -7,13 +7,15 @@
     line-height: 50px;
 }
 
+section.first, section.second, section.offset, section.nested-sec {
+    margin-bottom: 20px;
+}
+
 .nested {
     background-color: #00e165;
+    border: solid 1px #006cfa;
 }
-.col-lg-6.row {
+.col-lg-6.row, .col-lg-7.row, .col-lg-5.row {
     padding: 15px;
 }
 
-section.first {
-    margin-bottom: 20px;
-}
